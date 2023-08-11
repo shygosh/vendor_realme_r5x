@@ -135,17 +135,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/r5x/proprietary/vendor/bin/xtwifi-client:$(TARGET_COPY_OUT_VENDOR)/bin/xtwifi-client \
     vendor/realme/r5x/proprietary/vendor/bin/xtwifi-inet-agent:$(TARGET_COPY_OUT_VENDOR)/bin/xtwifi-inet-agent \
     vendor/realme/r5x/proprietary/vendor/etc/DxHDCP.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/DxHDCP.cfg \
-    vendor/realme/r5x/proprietary/vendor/etc/acdbdata/19631/Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/19631/Bluetooth_cal.acdb \
-    vendor/realme/r5x/proprietary/vendor/etc/acdbdata/19631/Codec_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/19631/Codec_cal.acdb \
-    vendor/realme/r5x/proprietary/vendor/etc/acdbdata/19631/General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/19631/General_cal.acdb \
-    vendor/realme/r5x/proprietary/vendor/etc/acdbdata/19631/Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/19631/Global_cal.acdb \
-    vendor/realme/r5x/proprietary/vendor/etc/acdbdata/19631/Handset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/19631/Handset_cal.acdb \
-    vendor/realme/r5x/proprietary/vendor/etc/acdbdata/19631/Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/19631/Hdmi_cal.acdb \
-    vendor/realme/r5x/proprietary/vendor/etc/acdbdata/19631/Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/19631/Headset_cal.acdb \
-    vendor/realme/r5x/proprietary/vendor/etc/acdbdata/19631/Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/19631/Speaker_cal.acdb \
-    vendor/realme/r5x/proprietary/vendor/etc/acdbdata/19631/adsp_avs_config.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/19631/adsp_avs_config.acdb \
-    vendor/realme/r5x/proprietary/vendor/etc/acdbdata/19631/workspaceFile.qwsp:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/19631/workspaceFile.qwsp \
-    vendor/realme/r5x/proprietary/vendor/etc/acdbdata/adsp_avs_config.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/adsp_avs_config.acdb \
     vendor/realme/r5x/proprietary/vendor/etc/cacert_location.pem:$(TARGET_COPY_OUT_VENDOR)/etc/cacert_location.pem \
     vendor/realme/r5x/proprietary/vendor/etc/camera/arc_golden.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/arc_golden.bin \
     vendor/realme/r5x/proprietary/vendor/etc/camera/ashdr/ncf_pack.ncf:$(TARGET_COPY_OUT_VENDOR)/etc/camera/ashdr/ncf_pack.ncf \
